@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS, BOOTSTRAP, JAVASCRIPT**
+- 🌱 I’m currently learning **MANUAL AND AUTOMATION TESTING**
 
-- 💬 Ask me about **HTML,CSS, BOOTSTRAP, JAVASCRIPT**
+- 💬 Ask me about **MANUAL TESTING,SQL,JAVA**
 
 - 📫 How to reach me **sinettaraj28008@gmail.com**
 
